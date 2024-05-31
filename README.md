@@ -31,9 +31,7 @@ This script automates the process of booking appointments on the VFS Global UK w
 ## Demonstration Video
 Watch the following video to see a demonstration of how to use the script:
 
-
-https://github.com/moizx85/VFS-UK-AUTOMATION/assets/105563989/0e992a24-2b4c-4157-a772-283142b647ae
-
+https://github.com/moizx85/VFS-UK-AUTOMATION/assets/105563989/6ab7c7be-a449-4939-9fcd-9e4f26fdc351
 
 
 
