@@ -31,7 +31,9 @@ This script automates the process of booking appointments on the VFS Global UK w
 ## Demonstration Video
 Watch the following video to see a demonstration of how to use the script:
 
-[![VFS Global UK Appointment Booking Automation](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID)
+[![VFS Global UK Appointment Booking Automation]([http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID](https://github.com/moizx85/VFS-UK-AUTOMATION/assets/105563989/0e992a24-2b4c-4157-a772-283142b647ae
 
-(Replace `VIDEO_ID` with the actual YouTube video ID)
+))
+
+
 
